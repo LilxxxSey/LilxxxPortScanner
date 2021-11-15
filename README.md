@@ -22,7 +22,7 @@ LilxxxScanner
 **Install via Git**
 
 ```bash
-git clone https://github.com/LilxxxSey/Port-Scan #to save the program to your machine, or utilize the download option
+git clone https://github.com/LilxxxSey/LilxxxPortScanner #to save the program to your machine, or utilize the download option
 ```
 
 You can add LilxxxScanner to run from any directory by adding a symbolic link:
