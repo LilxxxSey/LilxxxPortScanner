@@ -1,4 +1,4 @@
-# Threader3000 
+# LilxSey
 ### Multi-threaded Python Port Scanner with Nmap integration for use on Linux or Windows
 
 LilxxxScanner is a script written in Python3 that allows multi-threaded port scanning.  The program is interactive and simply requires you to run it to begin.  Once started, you will be asked to input an IP address or a FQDN as LilxxxScanner does resolve hostnames.  A full port scan can take as little as 15 seconds, but at max should take less than 1 minute 30 seconds depending on your internet connection.
