@@ -27,9 +27,29 @@ def main():
 
 # Welcome Banner
     print("-" * 60)
-    print("        LilxxxSey - Multi-threaded Port Scanner          ")
-    print("                       Version 1.0.6                    ")
-    print("                   A project by LilxSey               ")
+
+    print("""\x1b[0;35m
+
+             ___             __         ___                                           
+            /  /            /  \       /  /        /\    /\     /\    /\     /\    /\   
+           /  /            /   /      /  /         \ \  / /     \ \  / /     \ \  / /   
+          /  /            /   /      /  /           \ \/ /       \ \/ /       \ \/ /    
+         /  /            /   /      /  /             \/\/         \/\/         \/\/     
+        /  /            /   /      /  /              /\/\         /\/\         /\/\     
+       /  / __ __      /   /      /  / __ __        / /\ \       / /\ \       / /\ \    
+       \ __ __ __\     \__/       \ __ __ __\      /_/  \_\     /_/  \_\     /_/  \_\   
+
+    \x1b[0;31m
+#################################################################
+                            \x1b[0;34mBy Lilxxxx
+                    \x1b[0;33mGithub: github.com/LilxxxSey
+                    \x1b[0;32mBase: Python, LilxxxDev
+                          \x1b[0;36mVersion: 1.4
+\x1b[0;31m#################################################################
+\x1b[0;35m
+    """)
+
+
     print("-" * 60)
     time.sleep(1)
     target = input("Enter your target IP address or URL here: ")
